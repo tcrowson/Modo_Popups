@@ -12,12 +12,12 @@ The commands included here are:
 ![](http://www.timcrowson.com/wp-content/uploads/2015/05/popupgetItemSchematic.jpg)
 
 **Global use:**
-* While hovering over a Schematic view, press **Alt+f1** to display a searchable pop-up list of all the item types available in Modo.
+* Press **Alt+f1** to display a searchable pop-up list of all the item types available in Modo.
 * Type to narrow the search results, or use the up/down arrow keys to make a selection.
-* Press Return or click an item to create it.
+* Press Return or click an item to create it in the scene.
 
 **Schematic use:**
-* While hovering over a Schematic view, press **Tab** to display the same searchable pop-up list.
+* *While hovering over a Schematic view*, press **Tab** to display the same searchable pop-up list.
 * As above, make your selection either by typing or by navigating to it in the list.
 * In addition to creating the item, it will also be added to the current workspace in the schematic.
 
