@@ -220,8 +220,8 @@ class Popup(QDialog):
 class CreateItem ( lxu.command.BasicCommand ):
     '''
     Custom Command to create an item.
-    This is necessary as of beta 18 to circumvent a crash creating certain item types via the item.create command.
-    This wraps a call to the Python API via the TD SDK, rather than call the command itself.
+    This is necessary as of a certain build to circumvent a crash creating certain item types via the item.create command.
+    This wraps a call to the Python API via the TD API, rather than call the command itself.
     '''
     def __init__(self):
         lxu.command.BasicCommand.__init__(self)
