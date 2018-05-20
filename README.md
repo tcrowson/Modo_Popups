@@ -1,6 +1,6 @@
 # tc_Popups
 
-This is a set of plugins for Modo 901 which all feature a common mechanism: a pop-up search field. This emulates the behaviors found in many apps today (Nuke, Fusion, Softimage, Maya, Fabric Engine...)
+This is a set of plugins for Modo (v901+) which all feature a common mechanism: a pop-up search field. This emulates the behaviors found in many apps today (Nuke, Fusion, Houdini, Katana, Softimage, Maya, Fabric Engine...)
 The commands included here are:
 * Get Item / Add To Schematic
 * Get / Apply Material
